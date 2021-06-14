@@ -1,4 +1,4 @@
-# E-Pharmacy Components #
+# WP Bootstrap #
 **Contributors:** qlstudio  
 **Tags:** Private  
 **Requires at least:** 5.0  
@@ -6,4 +6,4 @@
 **Stable tag:** 0.0.1     
 **License:** GPL-2.0+  
 
-E-Pharmacy Components
+WP Bootstrap
